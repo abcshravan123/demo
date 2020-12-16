@@ -1,0 +1,110 @@
+SLA, when used to set a tier of service, refers to:
+Service Level Agreement
+Second Language Acquisition
+Software License Agreement
+Site Level Aggregation
+
+What is/are some of the feature(s) of Actifio’s data capture function?
+Data is captured according to your defined SLA.
+Data is captured at the block level.
+Data is in the native format of the application.
+All of the above.
+
+Which one of the listed use cases provides a scalable, enterprise-grade Copy Data Management (CDM) solution for very large databases?
+Actifio Backup and Recovery
+AI / ML / Analytics
+Cyber resiliency and Ransomware
+DevOps and Test Data Management
+Security and Compliance
+
+When migrating an application from one appliance to another, you must first perform which two steps:
+( Check all that apply )
+Add all appliances to the AGM instance.
+Define the application to migrate.
+Define the original and target appliances.
+Move the backup images from the original to the target appliance.
+
+Which of the following activitie(s) is/are primarily taken care of by the Actifio Global Manager?
+Aggregated view of appliance health and utilization.
+Automatic load balancing by distributing application workloads.
+Deliver standardized Service Level Agreements (SLAs).
+Manage application data consistently.
+All of the above
+What are the three essential defined functions of the Actifio product?
+( Check all that apply )
+Capture
+Manage
+Protect
+Recover
+Use
+
+One of the key challenges with the conventional data protection model is that the development team is constantly waiting for the Ops team to provision and refresh data. This results in:
+
+
+Increases in development cycles.
+
+
+Dependency on the Ops team.
+
+
+Changes to the data is delayed until after post updating.
+
+
+All of the above.
+
+
+Actifio Global Manager provides for the centralized management of which of the following function(s)?
+Organizations
+Roles
+Service Level Agreements (SLAs)
+Users
+All of the above
+
+
+
+What is/are some of the key problem(s) caused by using the conventional data management model?
+Developers are constantly waiting for data to be provisioned and the independent copies to be made.
+The multiple copies being created require a significant amount of storage.
+There are a slew of point tools needed to management the different stages of the data lifecycle.
+Redundant copies of the same data are constantly being created.
+All of the above.
+
+After an application is migrated to a new appliance and you need to perform a recovery, you must:
+Go to the new appliance for all images.
+Go to the original appliance to find the proper image.
+Let AGM go to the correct appliance where the image is stored.
+Manually search until you find the proper image.
+
+
+The first Actifio screen that is most often viewed upon logging in, displays a high-level overview of the system health and the status of all activity within the Actifio appliance. It is the:
+Application Manager
+Dashboard
+Domain Manager
+Report Manager
+SLA Architect
+
+In a situation where an Actifio appliance is experiencing capacity constraints, you can move the knowledge of the applications to another appliance. This is:
+Application migration
+Full data ingest
+Incremental forever
+Round-robin distribution
+
+When an application is ‘connected’ to an appliance, all future captures take place on that appliance. This is called, …
+Attached to the appliance.
+Bound to the appliance.
+Fastened to the appliance.
+Joined to the appliance.
+
+In which format, does Actifio store data in the snapshot pool for instant local access or recoveries
+Native application format
+Production date format
+Proprietary file format
+None of the above
+
+Which of the following are/is a major benefit(s) of the Actifio design?
+Actifio can replace multiple point tools and silos in the customer’s current environment.
+Actifio provides simple, heterogeneous management in a single environment.
+Data is captured incrementally using efficient snapshots instead of traditional backups.
+Data is moved efficiently throughout the system, using incremental changes, deduplication, and compression.
+All of the above.
+
